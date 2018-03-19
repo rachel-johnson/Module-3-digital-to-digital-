@@ -1,6 +1,6 @@
 # Image Issues
 ---
-March 16, 2018
+March 15, 2018
 
 - While starting to build my visual novel I was easily able to follow how to create characters, different scenes, and write the text in the text editor.
 - I ran into problems when trying to input background images into my novel. 
